@@ -1,7 +1,7 @@
 # Hi there, I'm Haris Ahmad Mubashir! 👋
 
 ## About Me
-I'm a **Senior Software Engineer** and **Python Backend Developer** with over **4+ years** of industrial experience in designing, developing, deploying, and maintaining web applications. I specialize in backend development using **Python**, **Django**, **Flask**, and **FastAPI**, and I also have experience in UI development using **JavaScript** and **jQuery**. I’m passionate about building scalable, efficient, and secure web applications.
+I'm a **Senior Software Engineer** and **Python Backend Developer** with over **5+ years** of industrial experience in designing, developing, deploying, and maintaining web applications. I specialize in backend development using **Python**, **Django**, **Flask**, and **FastAPI**, and I also have experience in UI development using **JavaScript** and **jQuery**. I’m passionate about building scalable, efficient, and secure web applications.
 ---
 
 ## Skills
