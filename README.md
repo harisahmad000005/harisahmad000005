@@ -1,7 +1,7 @@
 # Hi, I'm Haris Ahmad Mubashir 👋
 
 ## About Me
-Senior Software Engineer with **5+ years** building high-performance backend systems and APIs. I specialize in **Python**, **Django**, and **FastAPI** on **AWS**, with production experience integrating **Stripe**, **OpenAI**, and **Anthropic Claude**, plus async pipelines built on **Redis** and **Celery**. Currently working remotely with international teams — open to remote/relocation roles in the US and EU.
+Senior Software Engineer with **5+ years** building high-performance backend systems and APIs. I specialize in **Python**, **Django**, and **FastAPI** on **AWS**, with production experience integrating **Stripe**, **OpenAI**, and **Anthropic Claude**, plus async pipelines built on **Redis** and **Celery**. Currently working remotely with international teams — open to remote roles
 
 ---
 
